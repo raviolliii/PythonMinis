@@ -26,3 +26,9 @@ Has several matrix operations, including:
 * Add, Subtract
 * Multiply
 * Transpose
+
+---
+### [SHA](SHA)
+Clone of SHA algorithms (currently only SHA1).
+
+Based on my JS version [(JS repo)](https://github.com/raviolliii/SHA)
